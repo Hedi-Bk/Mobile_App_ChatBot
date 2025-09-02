@@ -106,7 +106,7 @@ npx expo --tunnel start
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Developed by **Hedi-Bk**
 
