@@ -113,3 +113,9 @@ Developed by **Hedi-Bk**
 - Backend: Flask + Appwrite
 - Frontend: React Native (Expo)
 - AI: OpenRouter + YOLOv8 model
+
+  ####  Feel free to explore the code, experiment with the notebooks, and adapt the ideas for your own projects!
+<p align="center">
+      <img src="https://github.com/user-attachments/assets/d7c0ef31-c3fc-44a3-adc6-539426cf9635" alt="icon" width="64" height="64">
+</p>  
+
