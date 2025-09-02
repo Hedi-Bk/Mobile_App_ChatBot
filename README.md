@@ -1,6 +1,6 @@
 # 📱 AI Product Tracking App
 
-## 🚀 Description
+## Description
 
 This mobile application enables **tracking and managing physical products** using AI.
 
@@ -13,7 +13,7 @@ The system is designed for two types of users:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React Native (accessible via Expo Go).
 - **Backend**: Flask (API).
@@ -23,7 +23,7 @@ The system is designed for two types of users:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 project/
@@ -34,9 +34,9 @@ project/
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
-### 👤 Regular User
+### Regular User
 
 - Authentication via Appwrite.
 - Register products with image capture.
@@ -56,7 +56,7 @@ project/
 
 ---
 
-## ⚙️ Installation & Run
+## Installation & Run
 
 ### 🔹 Prerequisites
 
@@ -97,7 +97,7 @@ npx expo --tunnel start
 
 ---
 
-## 📌 Roadmap (Future Enhancements)
+## Roadmap (Future Enhancements)
 
 - Permanent backend deployment (Railway, Render, or AWS).
 - Enhanced admin chatbot (support for more AI models).
