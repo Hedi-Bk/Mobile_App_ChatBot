@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Stage-Mobile-ML",
+    "slug": "Stage-Mobile-ML",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/HomePageLogo.png",
+    "scheme": "stagemobileml",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/HomePageLogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.hedibk.StageMobileML"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/HomePageLogo.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "82577b0d-a53e-4f5a-848e-0abeab17cfb1"
+      }
+    }
+  }
+}
