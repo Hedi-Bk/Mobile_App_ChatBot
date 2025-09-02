@@ -91,7 +91,7 @@ npx expo --tunnel start
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 - Update the `.env` file with your own Appwrite credentials and **ADMIN_EMAIL**.
 - Provide a valid OpenRouter API key to enable AI functionalities.
