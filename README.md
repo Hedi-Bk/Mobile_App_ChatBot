@@ -27,10 +27,6 @@ The system is designed for two types of users:
 
 ```
 project/
-│── app.py               # Main Flask backend file
-│── wsgi.py              # Server entry point
-│── requirements.txt      # Python dependencies
-│── yolov8n.pt            # AI model for detection
 │── /APIs                 # Flask API endpoints
 │── /Mobile_Chatbot          # Mobile application (React Native)
 
